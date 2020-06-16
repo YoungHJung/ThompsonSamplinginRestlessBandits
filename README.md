@@ -4,7 +4,7 @@ Thompson Sampling implementation in a restless bandit problem (Gilbert–Elliott
 The algorithms are described and theoretically analayzed in the following work. 
 ```
 Young Hun Jung and Ambuj Tewari. 
-Regret Bounds for Thompson Sampling in Restless Bandit Problems.
+Regret Bounds for Thompson Sampling in Episodic Restless Bandit Problems.
 In NeurIPS 2019.
 
 Young Hun Jung, Marc Abeille, and Ambuj Tewari.
